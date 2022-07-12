@@ -1,2 +1,2 @@
-# Discord-QR-Grabber-Bot
-source code for the fake wick verification bot that is being used in a recent discord scam
+# Discord QR Token Grabber Bot
+Source code for the fake Wick verification bot that is being used in the most recent discord token grabbing scams
